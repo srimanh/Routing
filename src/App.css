@@ -1,0 +1,26 @@
+nav{
+  background-color: rgb(57, 42, 42);
+  font-size: 1.2rem;
+}
+#logo{
+  position: relative;
+  top: 10px;
+}
+.left{
+  position: relative;
+  bottom: 10px;
+  left: 85%;
+  display: flex;
+  margin-left: 10px;
+}
+.link{
+  color: white;
+  text-decoration: none;
+}
+li{
+  list-style: none;
+  margin-left: 15px;
+}
+h1{
+  text-align: center;
+}
